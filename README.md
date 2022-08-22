@@ -1,4 +1,4 @@
-# DeveloperLandingPage-P9
+# Developer Landing Page
 Webpage built using HTML &amp; CSS without any frameworks.
 
 ## While building this page--Learnt:
